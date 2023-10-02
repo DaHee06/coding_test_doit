@@ -62,7 +62,7 @@ public class exam09 {
 
 
     }
-    private static void Add(char ch){
+    static void Add(char ch){
         switch (ch){
             case 'A':
                 myArr[0]++;
@@ -87,7 +87,7 @@ public class exam09 {
         }
     }
 
-    private static void Remove(char ch){
+    static void Remove(char ch){
         switch (ch){
             case 'A':
                 myArr[0]--;
