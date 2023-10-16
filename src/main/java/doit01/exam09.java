@@ -79,8 +79,7 @@ public class exam09 {
                 if(myArr[2] == checkArr[2]){
                     checkSecret++;
                 }
-            case 'T' :
-                myArr[3]++;
+            case 'T' :                myArr[3]++;
                 if(myArr[3] == checkArr[3]){
                     checkSecret++;
                 }

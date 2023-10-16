@@ -41,7 +41,6 @@ public class exam09_2 {
         for(int i = 0 ; i<M ; i++){
             Add(A[i]);
         }
-
         if(checkNum == 4){
             result++;
         }
